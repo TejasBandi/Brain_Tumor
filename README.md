@@ -1,6 +1,6 @@
-This README is designed to give your project a professional, "industry-standard" feel. It highlights your technical stack, the deep learning logic, and the high-impact visualization work you did in Tableau.
 
 Brain Tumor Detection & Architectural Benchmarking
+
 This project focuses on the detection and classification of brain tumors from MRI imaging using three state-of-the-art Deep Learning architectures: ResNet50, VGG16, and Xception. The goal was to compare architectural performance and interpretability using a unified diagnostic dashboard.
 
 📊 Performance Dashboard
